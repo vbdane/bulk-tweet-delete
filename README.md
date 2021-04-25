@@ -17,6 +17,7 @@ A quick and simple python script to delete all of your tweets.
   <br>
   <h3> 4. Run</h3>
   <h4> Open a console in the folder where main.py is located and run the file</h4>
+
   ```
   py main.py
   ```
